@@ -51,6 +51,10 @@ To deploy this project run
   https://gobookshopping.netlify.app/
 ```
 
+## Screenshots
+
+![bookshopping](https://github.com/monikaa06/Book-Shopping-using-Router/assets/148076194/ca4871a3-298d-4132-b06f-fe2ef8e3b4fe)
+
 ## Learn More
 
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
